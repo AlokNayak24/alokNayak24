@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ALOK</h1>
+<h1 align="center">Hi 👋, I'm ALOK KUMAR NAYAK </h1>
 <h3 align="center">A passionate QA Automation Engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aloknayak24&label=Profile%20views&color=0e75b6&style=flat" alt="aloknayak24" /> </p>
