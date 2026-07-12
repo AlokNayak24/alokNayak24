@@ -148,28 +148,14 @@ I use these day-to-day to speed up test script generation, debug flaky automatio
 #### ⏱️ Weekly Coding Activity (WakaTime)
 
 <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
-<details>
-<summary><b>⚙️ One-time setup for the metrics above (click to expand)</b></summary>
-<br>
+```txt
+Total Time: 0 secs
 
-The streak stats, activity graph, and contribution heatmap render immediately — no setup needed. Everything else in this section is generated on your own GitHub Actions, so it won't go down or get rate-limited the way shared free-tier widgets (e.g. `github-readme-stats.vercel.app`, `github-profile-trophy.vercel.app`) sometimes do — both were sitewide-down at the time this README was written, which is why those particular widgets were left out.
+No activity tracked
+```
 
-**Setup steps:**
-
-1. **Metrics card + isometric calendar** — via [`.github/workflows/metrics.yml`](.github/workflows/metrics.yml) using [lowlighter/metrics](https://github.com/lowlighter/metrics):
-   - Create a **classic Personal Access Token**: GitHub → Settings → Developer settings → Personal access tokens → Tokens (classic) → Generate new token, with scopes: `repo`, `read:user`, `read:org`.
-   - In this repo → Settings → Secrets and variables → Actions → New repository secret → name it `METRICS_TOKEN` → paste the token.
-   - Go to the **Actions** tab and manually run **"Generate Profile Metrics"** once (or wait for the daily 00:00 UTC cron). It commits `github-metrics.svg` and `github-isocalendar.svg` to the repo root.
-2. **Contribution snake** — via [`.github/workflows/snake.yml`](.github/workflows/snake.yml) using [Platane/snk](https://github.com/Platane/snk). Runs automatically on push to `main` (and daily); pushes generated SVGs to an `output` branch. No extra secret needed.
-3. **3D contribution calendar** — via [`.github/workflows/profile-3d.yml`](.github/workflows/profile-3d.yml) using [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib). Go to **Actions** → **"GitHub-Profile-3D-Contrib"** → **Run workflow** once (then it runs daily on its own). No extra secret needed.
-4. **WakaTime weekly stats** — via [`.github/workflows/waka-readme.yml`](.github/workflows/waka-readme.yml) using [athul/waka-readme](https://github.com/athul/waka-readme):
-   - Sign up at [wakatime.com](https://wakatime.com/), then grab your API key from [wakatime.com/api-key](https://wakatime.com/api-key/).
-   - Install the [WakaTime plugin](https://wakatime.com/plugins) in your editor/IDE and paste in the API key so it starts tracking coding time.
-   - In this repo → Settings → Secrets and variables → Actions → New repository secret → name it `WAKATIME_API_KEY` → paste the key.
-   - In this repo → Settings → Actions → General → Workflow permissions → set **Read and write permissions** (it needs to commit the stats block back into this README).
-   - Go to **Actions** → **"Waka Readme"** → **Run workflow** once — it fills in the `<!--START_SECTION:waka-->...<!--END_SECTION:waka-->` block above automatically (then refreshes daily).
+<!--END_SECTION:waka-->` block above automatically (then refreshes daily).
 5. Once each workflow has run at least once, every image/section here renders automatically — no further steps needed.
 
 </details>
