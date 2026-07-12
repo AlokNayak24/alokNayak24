@@ -100,7 +100,7 @@
   <img src="https://img.shields.io/badge/ACCELQ-1F2A44?style=for-the-badge&logoColor=white" title="ACCELQ" alt="ACCELQ" height="28"/>&nbsp;
   <img src="https://img.shields.io/badge/TestNG-3D3D3D?style=for-the-badge&logoColor=white" title="TestNG" alt="TestNG" height="28"/>&nbsp;
   <img src="https://img.shields.io/badge/Rest_Assured-3D3D3D?style=for-the-badge&logoColor=white" title="Rest Assured" alt="Rest Assured" height="28"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" title="Postman" alt="Postman" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="45" height="45"/>&nbsp;
 </p>
 
 **AI Testing**
@@ -119,9 +119,9 @@
 **CI/CD & Tools**
 
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" title="Jenkins" alt="Jenkins" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="45" height="45"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" title="Maven" alt="Maven" width="45" height="45"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" alt="Git" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="45" height="45"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="45" height="45"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" title="JIRA" alt="JIRA" width="45" height="45"/>&nbsp;
   <img src="https://img.shields.io/badge/Zephyr_Scale-1F2A44?style=for-the-badge&logoColor=white" title="Zephyr Scale" alt="Zephyr Scale" height="28"/>&nbsp;
@@ -166,7 +166,7 @@ I use these day-to-day to speed up test script generation, debug flaky automatio
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AlokNayak24&theme=tokyonight&hide_border=true" alt="AlokNayak24's streak stats" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=AlokNayak24&theme=tokyonight&hide_border=true" alt="AlokNayak24's streak stats" />
 </p>
 
 <p align="center">
