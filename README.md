@@ -164,7 +164,9 @@ No activity tracked
 
 ### Connect with me:
 <p align="left">
+<a href="https://aloknayak24.github.io/" target="blank"><img align="center" src="https://cdn.simpleicons.org/googlechrome/0e75b6" alt="portfolio" height="30" width="30" /></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/alok-kumar-nayak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://github.com/AlokNayak24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
 <a href="https://instagram.com/kumar_alok44_sa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 </p>
 
