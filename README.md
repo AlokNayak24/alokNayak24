@@ -77,24 +77,74 @@
 
 ### 🛠️ Languages, Frameworks & Tools
 
+**Languages**
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45" height="45"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" title="Selenium" alt="Selenium" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg" title="Cucumber (BDD)" alt="Cucumber" width="45" height="45"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" title="Postman" alt="Postman" width="45" height="45"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" title="Jenkins" alt="Jenkins" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="GitHub Actions / Git" alt="GitHub" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="45" height="45"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" alt="Git" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" title="JIRA" alt="JIRA" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="45" height="45"/>&nbsp;
-  <img src="https://img.shields.io/badge/ACCELQ-1F2A44?style=flat-square&logoColor=white" title="ACCELQ" alt="ACCELQ" height="28"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="45" height="45"/>&nbsp;
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" title="SQL" alt="SQL" height="28"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="45" height="45"/>&nbsp;
 </p>
 
-**Core stack:** Java · Selenium WebDriver · TestNG · Cucumber (BDD) · REST Assured / Postman · Maven · Jenkins · Git & GitHub · JIRA · MySQL · Linux · ACCELQ
+**Automation**
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" title="Playwright" alt="Playwright" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" title="Selenium WebDriver" alt="Selenium" width="45" height="45"/>&nbsp;
+  <img src="https://img.shields.io/badge/ACCELQ-1F2A44?style=for-the-badge&logoColor=white" title="ACCELQ" alt="ACCELQ" height="28"/>&nbsp;
+  <img src="https://img.shields.io/badge/TestNG-3D3D3D?style=for-the-badge&logoColor=white" title="TestNG" alt="TestNG" height="28"/>&nbsp;
+  <img src="https://img.shields.io/badge/Rest_Assured-3D3D3D?style=for-the-badge&logoColor=white" title="Rest Assured" alt="Rest Assured" height="28"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" title="Postman" alt="Postman" width="45" height="45"/>&nbsp;
+</p>
+
+**AI Testing**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" title="ChatGPT" alt="ChatGPT" height="28"/>&nbsp;
+  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" title="Codex" alt="Codex" height="28"/>&nbsp;
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" title="Claude Code" alt="Claude Code" height="28"/>&nbsp;
+  <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" title="Claude AI" alt="Claude AI" height="28"/>&nbsp;
+  <img src="https://img.shields.io/badge/Lovable-8A2BE2?style=for-the-badge&logoColor=white" title="Lovable" alt="Lovable" height="28"/>&nbsp;
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" title="GitHub Copilot" alt="GitHub Copilot" height="28"/>&nbsp;
+  <img src="https://img.shields.io/badge/AI_Agent_Development-D97757?style=for-the-badge&logoColor=white" title="AI Agent Development" alt="AI Agent Development" height="28"/>&nbsp;
+  <img src="https://img.shields.io/badge/Prompt_Engineering-D97757?style=for-the-badge&logoColor=white" title="Prompt Engineering" alt="Prompt Engineering" height="28"/>&nbsp;
+</p>
+
+**CI/CD & Tools**
+
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" title="Jenkins" alt="Jenkins" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" title="Maven" alt="Maven" width="45" height="45"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" alt="Git" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" title="JIRA" alt="JIRA" width="45" height="45"/>&nbsp;
+  <img src="https://img.shields.io/badge/Zephyr_Scale-1F2A44?style=for-the-badge&logoColor=white" title="Zephyr Scale" alt="Zephyr Scale" height="28"/>&nbsp;
+  <img src="https://img.shields.io/badge/Allure_Reports-FF6C37?style=for-the-badge&logoColor=white" title="Allure Reports" alt="Allure Reports" height="28"/>&nbsp;
+  <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" title="JMeter" alt="JMeter" height="28"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" title="Eclipse" alt="Eclipse" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" title="IntelliJ IDE" alt="IntelliJ IDE" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="45" height="45"/>&nbsp;
+</p>
+
+**Methodology**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Hybrid_Framework_(Data--Driven%2C_BDD)-0e75b6?style=for-the-badge&logoColor=white" title="Hybrid Framework" alt="Hybrid Framework" height="28"/>&nbsp;
+  <img src="https://img.shields.io/badge/Page_Object_Model-0e75b6?style=for-the-badge&logoColor=white" title="Page Object Model" alt="Page Object Model" height="28"/>&nbsp;
+  <img src="https://img.shields.io/badge/Agile%2FScrum-0e75b6?style=for-the-badge&logoColor=white" title="Agile/Scrum" alt="Agile/Scrum" height="28"/>&nbsp;
+  <img src="https://img.shields.io/badge/SDLC%2FSTLC-0e75b6?style=for-the-badge&logoColor=white" title="SDLC/STLC" alt="SDLC/STLC" height="28"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg" title="Cucumber/BDD" alt="Cucumber/BDD" width="45" height="45"/>&nbsp;
+</p>
+
+**Core stack:** Java · JavaScript · Python · TypeScript · SQL · HTML/CSS · Playwright · Selenium WebDriver · TestNG · Cucumber (BDD) · REST Assured / Postman · Maven · Jenkins · Git & GitHub · JIRA · Zephyr Scale · Allure Reports · JMeter · Docker · Linux · MySQL · PostgreSQL · MongoDB · ACCELQ
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:1a1a2e&height=2&section=footer" width="100%"/>
 
