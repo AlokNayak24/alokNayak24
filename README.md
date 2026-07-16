@@ -32,13 +32,13 @@
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:1a1a2e&height=2&section=footer" width="100%"/>
-
 ### 🚀 About Me
 
 - 🔭 I specialize in building **end-to-end test automation frameworks** for web, API, and regression suites
 - 🧪 Experienced with **Selenium WebDriver, TestNG, Cucumber (BDD)**, and **REST Assured** for API testing
 - ⚙️ Comfortable owning **CI/CD pipelines** (Jenkins, GitHub Actions) for automated test execution
 - 🐛 Strong believer in **shift-left testing** — catching bugs before they reach production
+- 🛠️ Experienced with **Jira, Zephyr, Git, GitHub, Maven, Postman, and Agile/Scrum**
 - 📈 Actively improving test coverage, flaky-test reduction, and reporting/dashboards
 - 🤖 Building **AI agents and AI-powered tooling** to speed up test authoring, triage, and pipeline automation
 - 🌱 Currently leveling up on **Docker, Cloud-based test grids, and Python for automation**
