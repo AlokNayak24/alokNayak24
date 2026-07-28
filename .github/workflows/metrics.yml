@@ -12,11 +12,7 @@ jobs:
       contents: write
     name: Main profile metrics card
     steps:
-      # Using dkhokhlov/metrics (fork of lowlighter/metrics) instead of the official
-      # action: lowlighter/metrics#1706 (classic-Projects GraphQL field nulling the
-      # whole user response, breaking achievements+habits) is unmerged upstream, and
-      # this fork carries the fix via PRs #1834/#1769.
-      - uses: dkhokhlov/metrics@master
+      - uses: lowlighter/metrics@latest
         with:
           filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -36,9 +32,10 @@ jobs:
           plugin_habits_charts_type: classic
           plugin_habits_facts: yes
 
-          plugin_achievements: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_secrets: yes
+          # Disabled: lowlighter/metrics#1706 - the achievements plugin's shared
+          # GraphQL query still references the deprecated classic Projects field,
+          # which nulls the whole response. Re-enable once upstream fixes it.
+          plugin_achievements: no
 
           plugin_topics: yes
           plugin_topics_mode: icons
