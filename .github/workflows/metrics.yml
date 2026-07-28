@@ -32,10 +32,13 @@ jobs:
           plugin_habits_charts_type: classic
           plugin_habits_facts: yes
 
-          # Disabled: lowlighter/metrics#1706 - the achievements plugin's shared
+          # Known broken: lowlighter/metrics#1706 - the achievements plugin's shared
           # GraphQL query still references the deprecated classic Projects field,
-          # which nulls the whole response. Re-enable once upstream fixes it.
-          plugin_achievements: no
+          # which nulls the whole response. Kept enabled anyway so the section
+          # stays visible (shows an error card) rather than silently disappearing.
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_secrets: yes
 
           plugin_topics: yes
           plugin_topics_mode: icons
