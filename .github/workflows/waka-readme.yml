@@ -14,3 +14,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TOTAL: True
+          AUTHOR_NAME: AlokNayak24
+          AUTHOR_EMAIL: aloknayak2013@gmail.com
+          COMMITTER_NAME: AlokNayak24
+          COMMITTER_EMAIL: aloknayak2013@gmail.com

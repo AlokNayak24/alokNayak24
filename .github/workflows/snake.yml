@@ -27,5 +27,7 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          committer: AlokNayak24 <aloknayak2013@gmail.com>
+          author: AlokNayak24 <aloknayak2013@gmail.com>
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
