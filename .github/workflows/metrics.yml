@@ -12,7 +12,12 @@ jobs:
       contents: write
     name: Main profile metrics card
     steps:
-      - uses: lowlighter/metrics@latest
+      # Using dkhokhlov/metrics (fork of lowlighter/metrics) instead of the official
+      # action: it carries a real fix for the habits null-guard crash. Its fix for
+      # achievements (lowlighter/metrics#1706, classic Projects deprecation) is
+      # incomplete though - list/users.mjs still hits the same error, so that
+      # section keeps showing "Unexpected error" until upstream fixes it properly.
+      - uses: dkhokhlov/metrics@master
         with:
           filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
