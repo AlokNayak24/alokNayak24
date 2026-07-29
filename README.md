@@ -166,7 +166,7 @@ I use these day-to-day to speed up test script generation, debug flaky automatio
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com/?user=AlokNayak24&theme=tokyonight&hide_border=true" alt="AlokNayak24's streak stats" />
+  <img height="165" src="https://raw.githubusercontent.com/AlokNayak24/alokNayak24/main/github-streak-stats.svg" alt="AlokNayak24's streak stats" />
 </p>
 
 <p align="center">
