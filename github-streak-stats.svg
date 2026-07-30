@@ -24,7 +24,7 @@
     <line x1="4" y1="-2" x2="4" y2="2" class="icon"/>
     <line x1="12" y1="-2" x2="12" y2="2" class="icon"/>
   </g>
-  <text x="82.5" y="80" text-anchor="middle" class="num" fill="#70a5fd">66</text>
+  <text x="82.5" y="80" text-anchor="middle" class="num" fill="#70a5fd">67</text>
   <text x="82.5" y="116" text-anchor="middle" class="label">Total Contributions</text>
   <text x="82.5" y="146" text-anchor="middle" class="range">2024 - Present</text>
 
