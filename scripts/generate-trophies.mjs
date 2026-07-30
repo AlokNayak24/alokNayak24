@@ -136,10 +136,9 @@ function renderSVG(stats) {
     const row = Math.floor(i / cols)
     const x = gap + col * (cellW + gap)
     const y = gap + row * (cellH + gap)
-    const delay = (0.15 * i).toFixed(2)
 
     return `
-  <g transform="translate(${x}, ${y})" style="opacity:0; animation: fadein 0.5s ease forwards ${delay}s">
+  <g transform="translate(${x}, ${y})">
     <rect width="${cellW}" height="${cellH}" rx="10" fill="#1a1b27" stroke="${tier.color}" stroke-width="2"/>
     <circle cx="${cellW - 30}" cy="30" r="17" fill="${tier.color}" opacity="0.15"/>
     <text x="${cellW - 30}" y="36" text-anchor="middle" class="rank" fill="${tier.color}">${tier.label}</text>
@@ -150,7 +149,6 @@ function renderSVG(stats) {
 
   return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${width} ${height}" width="${width}" height="${height}">
   <style>
-    @keyframes fadein { 0% { opacity: 0; transform: translateY(6px); } 100% { opacity: 1; transform: translateY(0); } }
     .num { font: 700 30px 'Segoe UI', Ubuntu, sans-serif; }
     .label { font: 700 13px 'Segoe UI', Ubuntu, sans-serif; fill: #9aa4b2; }
     .rank { font: 700 15px 'Segoe UI', Ubuntu, sans-serif; }
