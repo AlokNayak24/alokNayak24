@@ -16,7 +16,7 @@
     <rect width="213" height="167" rx="10" fill="#1a1b27" stroke="#38bdae" stroke-width="2"/>
     <circle cx="183" cy="30" r="17" fill="#38bdae" opacity="0.15"/>
     <text x="183" y="36" text-anchor="middle" class="rank" fill="#38bdae">B</text>
-    <text x="106.5" y="95" text-anchor="middle" class="num" fill="#38bdae">56</text>
+    <text x="106.5" y="95" text-anchor="middle" class="num" fill="#38bdae">59</text>
     <text x="106.5" y="128" text-anchor="middle" class="label">Commits</text>
   </g>
   <g transform="translate(471, 15)">
