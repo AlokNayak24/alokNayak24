@@ -1,47 +1,46 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 699 379" width="699" height="379">
   <style>
-    @keyframes fadein { 0% { opacity: 0; transform: translateY(6px); } 100% { opacity: 1; transform: translateY(0); } }
     .num { font: 700 30px 'Segoe UI', Ubuntu, sans-serif; }
     .label { font: 700 13px 'Segoe UI', Ubuntu, sans-serif; fill: #9aa4b2; }
     .rank { font: 700 15px 'Segoe UI', Ubuntu, sans-serif; }
   </style>
   <rect width="699" height="379" fill="none"/>
-  <g transform="translate(15, 15)" style="opacity:0; animation: fadein 0.5s ease forwards 0.00s">
+  <g transform="translate(15, 15)">
     <rect width="213" height="167" rx="10" fill="#1a1b27" stroke="#38bdae" stroke-width="2"/>
     <circle cx="183" cy="30" r="17" fill="#38bdae" opacity="0.15"/>
     <text x="183" y="36" text-anchor="middle" class="rank" fill="#38bdae">B</text>
     <text x="106.5" y="95" text-anchor="middle" class="num" fill="#38bdae">8</text>
     <text x="106.5" y="128" text-anchor="middle" class="label">Stars</text>
   </g>
-  <g transform="translate(243, 15)" style="opacity:0; animation: fadein 0.5s ease forwards 0.15s">
+  <g transform="translate(243, 15)">
     <rect width="213" height="167" rx="10" fill="#1a1b27" stroke="#38bdae" stroke-width="2"/>
     <circle cx="183" cy="30" r="17" fill="#38bdae" opacity="0.15"/>
     <text x="183" y="36" text-anchor="middle" class="rank" fill="#38bdae">B</text>
-    <text x="106.5" y="95" text-anchor="middle" class="num" fill="#38bdae">55</text>
+    <text x="106.5" y="95" text-anchor="middle" class="num" fill="#38bdae">56</text>
     <text x="106.5" y="128" text-anchor="middle" class="label">Commits</text>
   </g>
-  <g transform="translate(471, 15)" style="opacity:0; animation: fadein 0.5s ease forwards 0.30s">
+  <g transform="translate(471, 15)">
     <rect width="213" height="167" rx="10" fill="#1a1b27" stroke="#38bdae" stroke-width="2"/>
     <circle cx="183" cy="30" r="17" fill="#38bdae" opacity="0.15"/>
     <text x="183" y="36" text-anchor="middle" class="rank" fill="#38bdae">B</text>
     <text x="106.5" y="95" text-anchor="middle" class="num" fill="#38bdae">1</text>
     <text x="106.5" y="128" text-anchor="middle" class="label">Followers</text>
   </g>
-  <g transform="translate(15, 197)" style="opacity:0; animation: fadein 0.5s ease forwards 0.45s">
+  <g transform="translate(15, 197)">
     <rect width="213" height="167" rx="10" fill="#1a1b27" stroke="#38bdae" stroke-width="2"/>
     <circle cx="183" cy="30" r="17" fill="#38bdae" opacity="0.15"/>
     <text x="183" y="36" text-anchor="middle" class="rank" fill="#38bdae">B</text>
     <text x="106.5" y="95" text-anchor="middle" class="num" fill="#38bdae">8</text>
     <text x="106.5" y="128" text-anchor="middle" class="label">Repositories</text>
   </g>
-  <g transform="translate(243, 197)" style="opacity:0; animation: fadein 0.5s ease forwards 0.60s">
+  <g transform="translate(243, 197)">
     <rect width="213" height="167" rx="10" fill="#1a1b27" stroke="#6b7280" stroke-width="2"/>
     <circle cx="183" cy="30" r="17" fill="#6b7280" opacity="0.15"/>
     <text x="183" y="36" text-anchor="middle" class="rank" fill="#6b7280">C</text>
     <text x="106.5" y="95" text-anchor="middle" class="num" fill="#6b7280">0</text>
     <text x="106.5" y="128" text-anchor="middle" class="label">Pull Requests</text>
   </g>
-  <g transform="translate(471, 197)" style="opacity:0; animation: fadein 0.5s ease forwards 0.75s">
+  <g transform="translate(471, 197)">
     <rect width="213" height="167" rx="10" fill="#1a1b27" stroke="#6b7280" stroke-width="2"/>
     <circle cx="183" cy="30" r="17" fill="#6b7280" opacity="0.15"/>
     <text x="183" y="36" text-anchor="middle" class="rank" fill="#6b7280">C</text>
