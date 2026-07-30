@@ -170,10 +170,6 @@ I use these day-to-day to speed up test script generation, debug flaky automatio
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AlokNayak24/alokNayak24/main/github-trophies.svg" alt="AlokNayak24's GitHub trophies" width="100%"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlokNayak24&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" width="100%"/>
 </p>
 
@@ -197,6 +193,10 @@ I use these day-to-day to speed up test script generation, debug flaky automatio
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AlokNayak24/AlokNayak24/main/github-isocalendar.svg" alt="Isometric contribution calendar" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AlokNayak24/alokNayak24/main/github-trophies.svg" alt="AlokNayak24's GitHub trophies" width="100%"/>
 </p>
 
 #### ⏱️ Weekly Coding Activity (WakaTime)

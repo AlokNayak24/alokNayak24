@@ -140,6 +140,13 @@ function renderSVG(stats) {
     return `
   <g transform="translate(${x}, ${y})">
     <rect width="${cellW}" height="${cellH}" rx="10" fill="#1a1b27" stroke="${tier.color}" stroke-width="2"/>
+    <g transform="translate(20, 16)" stroke="${tier.color}" class="icon">
+      <path d="M2 0h12v3a6 6 0 01-12 0V0z"/>
+      <path d="M2 1H-1a2 2 0 000 4h3"/>
+      <path d="M14 1h3a2 2 0 010 4h-3"/>
+      <line x1="8" y1="9" x2="8" y2="12"/>
+      <line x1="4" y1="13" x2="12" y2="13"/>
+    </g>
     <circle cx="${cellW - 30}" cy="30" r="17" fill="${tier.color}" opacity="0.15"/>
     <text x="${cellW - 30}" y="36" text-anchor="middle" class="rank" fill="${tier.color}">${tier.label}</text>
     <text x="${cellW / 2}" y="95" text-anchor="middle" class="num" fill="${tier.color}">${value}</text>
@@ -152,6 +159,7 @@ function renderSVG(stats) {
     .num { font: 700 30px 'Segoe UI', Ubuntu, sans-serif; }
     .label { font: 700 13px 'Segoe UI', Ubuntu, sans-serif; fill: #9aa4b2; }
     .rank { font: 700 15px 'Segoe UI', Ubuntu, sans-serif; }
+    .icon { fill: none; stroke-width: 1.3; stroke-linecap: round; stroke-linejoin: round; }
   </style>
   <rect width="${width}" height="${height}" fill="none"/>${cells}
 </svg>
