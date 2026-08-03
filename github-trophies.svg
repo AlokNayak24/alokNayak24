@@ -31,21 +31,21 @@
     </g>
     <circle cx="183" cy="30" r="17" fill="#38bdae" opacity="0.15"/>
     <text x="183" y="36" text-anchor="middle" class="rank" fill="#38bdae">B</text>
-    <text x="106.5" y="95" text-anchor="middle" class="num" fill="#38bdae">80</text>
+    <text x="106.5" y="95" text-anchor="middle" class="num" fill="#38bdae">85</text>
     <text x="106.5" y="128" text-anchor="middle" class="label">Commits</text>
   </g>
   <g transform="translate(471, 15)">
-    <rect width="213" height="167" rx="10" fill="#1a1b27" stroke="#38bdae" stroke-width="2"/>
-    <g transform="translate(20, 16)" stroke="#38bdae" class="icon">
+    <rect width="213" height="167" rx="10" fill="#1a1b27" stroke="#6b7280" stroke-width="2"/>
+    <g transform="translate(20, 16)" stroke="#6b7280" class="icon">
       <path d="M2 0h12v3a6 6 0 01-12 0V0z"/>
       <path d="M2 1H-1a2 2 0 000 4h3"/>
       <path d="M14 1h3a2 2 0 010 4h-3"/>
       <line x1="8" y1="9" x2="8" y2="12"/>
       <line x1="4" y1="13" x2="12" y2="13"/>
     </g>
-    <circle cx="183" cy="30" r="17" fill="#38bdae" opacity="0.15"/>
-    <text x="183" y="36" text-anchor="middle" class="rank" fill="#38bdae">B</text>
-    <text x="106.5" y="95" text-anchor="middle" class="num" fill="#38bdae">1</text>
+    <circle cx="183" cy="30" r="17" fill="#6b7280" opacity="0.15"/>
+    <text x="183" y="36" text-anchor="middle" class="rank" fill="#6b7280">C</text>
+    <text x="106.5" y="95" text-anchor="middle" class="num" fill="#6b7280">0</text>
     <text x="106.5" y="128" text-anchor="middle" class="label">Followers</text>
   </g>
   <g transform="translate(15, 197)">
