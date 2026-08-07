@@ -21,17 +21,17 @@
     <text x="106.5" y="128" text-anchor="middle" class="label">Stars</text>
   </g>
   <g transform="translate(243, 15)">
-    <rect width="213" height="167" rx="10" fill="#1a1b27" stroke="#38bdae" stroke-width="2"/>
-    <g transform="translate(20, 16)" stroke="#38bdae" class="icon">
+    <rect width="213" height="167" rx="10" fill="#1a1b27" stroke="#70a5fd" stroke-width="2"/>
+    <g transform="translate(20, 16)" stroke="#70a5fd" class="icon">
       <path d="M2 0h12v3a6 6 0 01-12 0V0z"/>
       <path d="M2 1H-1a2 2 0 000 4h3"/>
       <path d="M14 1h3a2 2 0 010 4h-3"/>
       <line x1="8" y1="9" x2="8" y2="12"/>
       <line x1="4" y1="13" x2="12" y2="13"/>
     </g>
-    <circle cx="183" cy="30" r="17" fill="#38bdae" opacity="0.15"/>
-    <text x="183" y="36" text-anchor="middle" class="rank" fill="#38bdae">B</text>
-    <text x="106.5" y="95" text-anchor="middle" class="num" fill="#38bdae">98</text>
+    <circle cx="183" cy="30" r="17" fill="#70a5fd" opacity="0.15"/>
+    <text x="183" y="36" text-anchor="middle" class="rank" fill="#70a5fd">A</text>
+    <text x="106.5" y="95" text-anchor="middle" class="num" fill="#70a5fd">103</text>
     <text x="106.5" y="128" text-anchor="middle" class="label">Commits</text>
   </g>
   <g transform="translate(471, 15)">
