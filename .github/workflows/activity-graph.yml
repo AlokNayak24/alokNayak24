@@ -1,0 +1,33 @@
+name: Generate Activity Graph
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # runs daily at midnight UTC
+  workflow_dispatch:       # lets you trigger it manually from the Actions tab
+
+jobs:
+  activity-graph:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate activity graph SVG
+        env:
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          GH_USER: AlokNayak24
+        run: node scripts/generate-activity-graph.mjs
+
+      - name: Commit & Push
+        run: |
+          git config user.name AlokNayak24
+          git config user.email aloknayak2013@gmail.com
+          git add github-activity-graph.svg
+          if git commit -m "Update activity graph"; then
+            git push
+          fi

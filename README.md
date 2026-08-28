@@ -170,7 +170,7 @@ I use these day-to-day to speed up test script generation, debug flaky automatio
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlokNayak24&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" width="100%"/>
+  <img src="https://raw.githubusercontent.com/AlokNayak24/alokNayak24/main/github-activity-graph.svg" alt="Contribution activity graph" width="100%"/>
 </p>
 
 <p align="center">
