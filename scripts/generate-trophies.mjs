@@ -23,8 +23,14 @@ async function graphql(query, variables) {
     body: JSON.stringify({ query, variables }),
   })
   const json = await res.json()
+  if (!res.ok) {
+    throw new Error(`GraphQL request failed (HTTP ${res.status}): ${JSON.stringify(json)}`)
+  }
   if (json.errors) {
     throw new Error(JSON.stringify(json.errors))
+  }
+  if (!json.data) {
+    throw new Error(`GraphQL response had no data: ${JSON.stringify(json)}`)
   }
   return json.data
 }
@@ -37,6 +43,9 @@ async function getUserCreatedAt(login) {
     },
   })
   const json = await res.json()
+  if (!res.ok || !json.created_at) {
+    throw new Error(`Failed to fetch user ${login} (HTTP ${res.status}): ${JSON.stringify(json)}`)
+  }
   return new Date(json.created_at)
 }
 
