@@ -31,7 +31,7 @@
     </g>
     <circle cx="183" cy="30" r="17" fill="#70a5fd" opacity="0.15"/>
     <text x="183" y="36" text-anchor="middle" class="rank" fill="#70a5fd">A</text>
-    <text x="106.5" y="95" text-anchor="middle" class="num" fill="#70a5fd">121</text>
+    <text x="106.5" y="95" text-anchor="middle" class="num" fill="#70a5fd">146</text>
     <text x="106.5" y="128" text-anchor="middle" class="label">Commits</text>
   </g>
   <g transform="translate(471, 15)">
@@ -59,7 +59,7 @@
     </g>
     <circle cx="183" cy="30" r="17" fill="#38bdae" opacity="0.15"/>
     <text x="183" y="36" text-anchor="middle" class="rank" fill="#38bdae">B</text>
-    <text x="106.5" y="95" text-anchor="middle" class="num" fill="#38bdae">8</text>
+    <text x="106.5" y="95" text-anchor="middle" class="num" fill="#38bdae">9</text>
     <text x="106.5" y="128" text-anchor="middle" class="label">Repositories</text>
   </g>
   <g transform="translate(243, 197)">
