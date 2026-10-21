@@ -55,7 +55,7 @@ const CALENDAR_QUERY = `
 
 async function fetchRecentDays(login, days) {
   const now = new Date()
-  const from = new Date(now.getTime() - (days - 1) * 24 * 60 * 60 * 1000)
+  const from = new Date(now.getTime() - days * 24 * 60 * 60 * 1000)
   from.setUTCHours(0, 0, 0, 0)
 
   const data = await graphql(CALENDAR_QUERY, { login, from: from.toISOString(), to: now.toISOString() })
@@ -69,7 +69,9 @@ async function fetchRecentDays(login, days) {
   }
   allDays.sort((a, b) => a.date.localeCompare(b.date))
 
-  return allDays.slice(-days)
+  // Drop today: it is still in progress, so its count is misleadingly low
+  const today = now.toISOString().slice(0, 10)
+  return allDays.filter(d => d.date < today).slice(-days)
 }
 
 function formatDate(dateStr) {
